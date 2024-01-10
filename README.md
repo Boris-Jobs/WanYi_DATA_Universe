@@ -13,6 +13,7 @@ git clone https://github.com/你的用户名/仓库名.git
 
 Refine, updata and fix:
 ```shell
+git remote add origin git@github.com:Boris-Jobs/WanYi_DATA_Universe.git
 git pull origin main
 
 # Update feature
