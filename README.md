@@ -11,3 +11,14 @@ Clone by https:
 git clone https://github.com/你的用户名/仓库名.git
 ```
 
+Refine, updata and fix:
+```shell
+git pull origin main
+
+# Update feature
+
+git add .
+git commit -m "Update feature"
+git push origin "my branch"
+```
+
