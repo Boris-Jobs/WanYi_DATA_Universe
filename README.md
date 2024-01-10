@@ -22,3 +22,7 @@ git commit -m "Update feature"
 git push origin "my branch"
 ```
 
+notes:
+```shell
+git branch -m master main # change branch name from master to main
+```
