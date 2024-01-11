@@ -35,5 +35,6 @@ def get(json_str):
 
 
 if __name__ == '__main__':
-    my_args = "{\"advertiser_id\": ADVERTISER_ID,\"page\": PAGE,\"page_size\": PAGE_SIZE}"
-    print(get(my_args))
+    my_args = "{\"advertiser_id\": 1753269359988803}"
+    with open('tiktok_id_test.json', 'w', encoding='utf-8') as json_file:
+        json.dump(get(my_args), json_file, ensure_ascii=False, indent=2)
