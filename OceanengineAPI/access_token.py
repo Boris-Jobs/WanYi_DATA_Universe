@@ -1,16 +1,18 @@
 """
 latest code:
-auth_code=cb790751c8556aa6b920aa8627780459b4166b6b
+auth_code=914faaec6c363e49a0427331c631b4c28bbe91a3
+date:20240111
 """
+import requests
 def get_access_token():
     open_api_url_prefix = "https://ad.oceanengine.com/open_api/"
     uri = "oauth2/access_token/"
     url = open_api_url_prefix + uri
     data = {
-        "app_id": 1787489176384537,
-        "secret": "bedde394aa3b078e31b84061a8bcfbc743cd89e7",
+        "app_id": 1787637136689193,
+        "secret": "2b7dd8c1b33bcd9fef991b870b40a556e633df61",
         "grant_type": "auth_code",
-        "auth_code": "cb790751c8556aa6b920aa8627780459b4166b6b"
+        "auth_code": "914faaec6c363e49a0427331c631b4c28bbe91a3"
     }
     rsp = requests.post(url, json=data)
     rsp_data = rsp.json()
