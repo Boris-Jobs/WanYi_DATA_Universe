@@ -26,4 +26,12 @@ git push origin "my branch"
 notes:
 ```shell
 git branch -m master main # change branch name from master to main
+
+# every time you have a new device:
+ls -al ~/.ssh # check the keys
+ssh-keygen -t rsa -b 4096 -C "your_email@example.com" # generate a ssh-key
+eval $(ssh-agent -s) # add ssh-key to ssh-agent
+ssh-add ~/.ssh/id_rsa
+cat ~/.ssh/id_rsa.pub # copy these shit to github ssh settings
+
 ```
