@@ -1,3 +1,28 @@
-hi
+advertiser_id_xiaoxiong = 1782904022538252
+aweme_id_xiaoxiong = 3184613825708974
 
-boris's here.
+advertiser_id_ffalcon = 1757067277453327
+aweme_id_ffalcon = 3637645348186535
+aweme_id_ffalcon2 = 52302947396
+
+advertiser_id_kongtiao = 1726906985781248
+aweme_id_kongtiao = 421835258726919
+
+advertiser_id_ffalcon3 = 1757067277453327
+aweme_idffalcon3 = 1684925512700927
+
+advertiser_id_bingxiang = 1760485701945348
+aweme_id_bingxiang = 59620235049
+
+advertiser_id_xiyiji = 1733424467898380
+aweme_id_xiyiji = 1601309836879312
+
+advertiser_id_tianranboshi = 1753269359988803
+aweme_id_tianranboshi = 1877555495835464
+
+advertiser_id_shenghuodianqi = 1734404969104392 # No permission to operate account 1734404969104392
+
+
+
+
+

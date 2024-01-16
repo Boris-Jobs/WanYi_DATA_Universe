@@ -1,0 +1,89 @@
+{
+  "code": 0,
+  "message": "OK",
+  "request_id": "202401161001177A903C6B116EF368D604",
+  "data": {
+    "list": [
+      {
+        "account_role": "PLATFORM_ROLE_SHOP_ACCOUNT",
+        "account_string_id": "",
+        "advertiser_id": 20695352,
+        "advertiser_name": "小熊个人护理旗舰店",
+        "company_list": [],
+        "is_valid": true
+      },
+      {
+        "account_role": "PLATFORM_ROLE_SHOP_ACCOUNT",
+        "account_string_id": "",
+        "advertiser_id": 117165656,
+        "advertiser_name": "FFALCON雷鸟显示器旗舰店",
+        "company_list": [],
+        "is_valid": true
+      },
+      {
+        "account_role": "PLATFORM_ROLE_SHOP_ACCOUNT",
+        "account_string_id": "",
+        "advertiser_id": 48261737,
+        "advertiser_name": "TCL洗衣机旗舰店",
+        "company_list": [],
+        "is_valid": true
+      },
+      {
+        "account_role": "PLATFORM_ROLE_SHOP_ACCOUNT",
+        "account_string_id": "",
+        "advertiser_id": 33926231,
+        "advertiser_name": "TCL空调旗舰店",
+        "company_list": [],
+        "is_valid": true
+      },
+      {
+        "account_role": "PLATFORM_ROLE_SHOP_ACCOUNT",
+        "account_string_id": "",
+        "advertiser_id": 71192014,
+        "advertiser_name": "天然博士母婴旗舰店",
+        "company_list": [],
+        "is_valid": true
+      },
+      {
+        "account_role": "PLATFORM_ROLE_SHOP_ACCOUNT",
+        "account_string_id": "",
+        "advertiser_id": 48804441,
+        "advertiser_name": "速翼电动车专营店",
+        "company_list": [],
+        "is_valid": true
+      },
+      {
+        "account_role": "PLATFORM_ROLE_SHOP_ACCOUNT",
+        "account_string_id": "",
+        "advertiser_id": 57507818,
+        "advertiser_name": "小天鹅易迪专卖店",
+        "company_list": [],
+        "is_valid": true
+      },
+      {
+        "account_role": "PLATFORM_ROLE_SHOP_ACCOUNT",
+        "account_string_id": "",
+        "advertiser_id": 82670747,
+        "advertiser_name": "FFALCON官方旗舰店",
+        "company_list": [],
+        "is_valid": true
+      },
+      {
+        "account_role": "PLATFORM_ROLE_SHOP_ACCOUNT",
+        "account_string_id": "",
+        "advertiser_id": 79212712,
+        "advertiser_name": "TCL冰箱旗舰店",
+        "company_list": [],
+        "is_valid": true
+      },
+      {
+        "account_role": "ADVERTISER",
+        "account_string_id": "",
+        "advertiser_id": 1764248275995652,
+        "advertiser_name": "ECP_1682518268454_0283",
+        "company_list": [],
+        "is_valid": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,385 @@
+{
+  "xiaoxiong": {
+    "code": 0,
+    "message": "OK",
+    "request_id": "20240116105836B7DA45AD6CCF33D64A4E",
+    "data": {
+      "aweme_id_list": [
+        {
+          "aweme_avatar": "https://p11.douyinpic.com/img/aweme-avatar/tos-cn-avt-0015_ad78c39a9def43aaacf748ea51fd8e83~c5_168x168.webp?from=3782654143",
+          "aweme_has_live_permission": true,
+          "aweme_has_uni_prom": false,
+          "aweme_has_video_permission": true,
+          "aweme_id": 3184613825708974,
+          "aweme_name": "小熊个人护理旗舰店",
+          "aweme_show_id": "82337442764",
+          "aweme_status": "NORMAL",
+          "bind_type": [
+            "SELF"
+          ]
+        }
+      ],
+      "page_info": {
+        "page": 1,
+        "page_size": 10,
+        "total_number": 1,
+        "total_page": 1
+      }
+    }
+  },
+  "tianranboshi": {
+    "code": 0,
+    "message": "OK",
+    "request_id": "20240116105837AF0C20A25E0C45746DDB",
+    "data": {
+      "aweme_id_list": [
+        {
+          "aweme_avatar": "https://p3.douyinpic.com/img/aweme-avatar/tos-cn-i-0813_893c50e6a6414d2399e151b289ffb1e9~c5_168x168.webp?from=3782654143",
+          "aweme_has_live_permission": false,
+          "aweme_has_uni_prom": false,
+          "aweme_has_video_permission": false,
+          "aweme_id": 1877555495835464,
+          "aweme_name": "天然博士母婴旗舰店",
+          "aweme_show_id": "87751315115",
+          "aweme_status": "NORMAL",
+          "bind_type": [
+            "OFFICIAL"
+          ]
+        }
+      ],
+      "page_info": {
+        "page": 1,
+        "page_size": 10,
+        "total_number": 1,
+        "total_page": 1
+      }
+    }
+  },
+  "kongtiao": {
+    "code": 0,
+    "message": "OK",
+    "request_id": "20240116105837CB48529C9CAFF6D6D38A",
+    "data": {
+      "aweme_id_list": [
+        {
+          "aweme_avatar": "https://p11.douyinpic.com/img/aweme-avatar/tos-cn-avt-0015_ccf5ed1655689b8b36c0066caefb8333~c5_168x168.webp?from=3782654143",
+          "aweme_has_live_permission": true,
+          "aweme_has_uni_prom": false,
+          "aweme_has_video_permission": true,
+          "aweme_id": 421835258726919,
+          "aweme_name": "TCL空调旗舰店",
+          "aweme_show_id": "38396581665",
+          "aweme_status": "NORMAL",
+          "bind_type": [
+            "OFFICIAL"
+          ]
+        },
+        {
+          "aweme_avatar": "https://p11.douyinpic.com/img/aweme-avatar/tos-cn-avt-0015_3fa910c272191ffa5387419bc66c341a~c5_168x168.webp?from=3782654143",
+          "aweme_has_live_permission": true,
+          "aweme_has_uni_prom": false,
+          "aweme_has_video_permission": true,
+          "aweme_id": 3039473534251355,
+          "aweme_name": "TCL空调旗舰店直播间",
+          "aweme_show_id": "74841309551",
+          "aweme_status": "NORMAL",
+          "bind_type": [
+            "SELF"
+          ]
+        },
+        {
+          "aweme_avatar": "https://p11.douyinpic.com/img/aweme-avatar/aweme_default_avatar.png~c5_168x168.webp?from=3782654143",
+          "aweme_has_live_permission": false,
+          "aweme_has_uni_prom": false,
+          "aweme_has_video_permission": false,
+          "aweme_id": 1525745301328664,
+          "aweme_name": "Hc_ktqctm202251",
+          "aweme_show_id": "54816422150",
+          "aweme_status": "NORMAL",
+          "bind_type": [
+            "SELF"
+          ]
+        }
+      ],
+      "page_info": {
+        "page": 1,
+        "page_size": 10,
+        "total_number": 3,
+        "total_page": 1
+      }
+    }
+  },
+  "ffalcon": {
+    "code": 0,
+    "message": "OK",
+    "request_id": "20240116105838C05CF470948699761A65",
+    "data": {
+      "aweme_id_list": [
+        {
+          "aweme_avatar": "https://p11.douyinpic.com/img/aweme-avatar/tos-cn-i-c9aec8xkvj_33e0b94c98d744e2b8f0b15706b09f16~c5_168x168.webp?from=3782654143",
+          "aweme_has_live_permission": true,
+          "aweme_has_uni_prom": false,
+          "aweme_has_video_permission": true,
+          "aweme_id": 3637645348186535,
+          "aweme_name": "FFALCON官方旗舰店",
+          "aweme_show_id": "27908031619",
+          "aweme_status": "NORMAL",
+          "bind_type": [
+            "OFFICIAL"
+          ]
+        },
+        {
+          "aweme_avatar": "https://p11.douyinpic.com/img/aweme-avatar/tos-cn-i-c9aec8xkvj_353c920e8c304718bd4887a166ca4c50~c5_168x168.webp?from=3782654143",
+          "aweme_has_live_permission": true,
+          "aweme_has_uni_prom": false,
+          "aweme_has_video_permission": true,
+          "aweme_id": 1684925512700927,
+          "aweme_name": "FFALCON雷鸟电视官方旗舰店号",
+          "aweme_show_id": "46934555021",
+          "aweme_status": "NORMAL",
+          "bind_type": [
+            "SELF"
+          ]
+        },
+        {
+          "aweme_avatar": "https://p11.douyinpic.com/img/aweme-avatar/tos-cn-i-c9aec8xkvj_1ddae1da32e945f7b4badfe0459bc8b9~c5_168x168.webp?from=3782654143",
+          "aweme_has_live_permission": true,
+          "aweme_has_uni_prom": false,
+          "aweme_has_video_permission": true,
+          "aweme_id": 3028477739801960,
+          "aweme_name": "FFALCON官方旗舰店直播间",
+          "aweme_show_id": "54813209499",
+          "aweme_status": "NORMAL",
+          "bind_type": [
+            "SELF"
+          ]
+        },
+        {
+          "aweme_avatar": "https://p11.douyinpic.com/img/aweme-avatar/tos-cn-i-0813_o8fS2ApqkDAKIDIlANebACgZJSgAkhE29AnHAi~c5_168x168.webp?from=3782654143",
+          "aweme_has_live_permission": true,
+          "aweme_has_uni_prom": true,
+          "aweme_has_video_permission": true,
+          "aweme_id": 52302947396,
+          "aweme_name": "雷鸟电视官方直播间",
+          "aweme_show_id": "615163780",
+          "aweme_status": "NORMAL",
+          "bind_type": [
+            "AWEME_COOPERATOR"
+          ]
+        }
+      ],
+      "page_info": {
+        "page": 1,
+        "page_size": 10,
+        "total_number": 4,
+        "total_page": 1
+      }
+    }
+  },
+  "bingxiang": {
+    "code": 0,
+    "message": "OK",
+    "request_id": "20240116105839384327F77218A3D19F6F",
+    "data": {
+      "aweme_id_list": [
+        {
+          "aweme_avatar": "https://p26.douyinpic.com/img/aweme-avatar/tos-cn-avt-0015_15c5ceef0d673d4464c7ecc872d85afc~c5_168x168.webp?from=3782654143",
+          "aweme_has_live_permission": true,
+          "aweme_has_uni_prom": false,
+          "aweme_has_video_permission": true,
+          "aweme_id": 59620235049,
+          "aweme_name": "TCL冰箱旗舰店",
+          "aweme_show_id": "1238588586",
+          "aweme_status": "NORMAL",
+          "bind_type": [
+            "OFFICIAL"
+          ]
+        },
+        {
+          "aweme_avatar": "https://p26.douyinpic.com/img/aweme-avatar/tos-cn-i-0813_5c2c9e8cd38149679a4ae155497deb3d~c5_168x168.webp?from=3782654143",
+          "aweme_has_live_permission": true,
+          "aweme_has_uni_prom": false,
+          "aweme_has_video_permission": true,
+          "aweme_id": 3677180597634087,
+          "aweme_name": "TCL冰箱旗舰店直播间",
+          "aweme_show_id": "81983560671",
+          "aweme_status": "NORMAL",
+          "bind_type": [
+            "SELF"
+          ]
+        },
+        {
+          "aweme_avatar": "https://p26.douyinpic.com/img/aweme-avatar/tos-cn-i-0813_ad48d30e2c5f4583958c94462cf8b111~c5_168x168.webp?from=3782654143",
+          "aweme_has_live_permission": true,
+          "aweme_has_uni_prom": false,
+          "aweme_has_video_permission": true,
+          "aweme_id": 624176975843128,
+          "aweme_name": "老王讲装修",
+          "aweme_show_id": "LWJZX",
+          "aweme_status": "NORMAL",
+          "bind_type": [
+            "AWEME_COOPERATOR"
+          ]
+        }
+      ],
+      "page_info": {
+        "page": 1,
+        "page_size": 10,
+        "total_number": 3,
+        "total_page": 1
+      }
+    }
+  },
+  "xiyiji": {
+    "code": 0,
+    "message": "OK",
+    "request_id": "20240116105839A0EEA058637A9F7EC9AD",
+    "data": {
+      "aweme_id_list": [
+        {
+          "aweme_avatar": "https://p3.douyinpic.com/img/aweme-avatar/tos-cn-avt-0015_d8364085c42704b67f86fd5b5af051ba~c5_168x168.webp?from=3782654143",
+          "aweme_has_live_permission": true,
+          "aweme_has_uni_prom": false,
+          "aweme_has_video_permission": true,
+          "aweme_id": 1601309836879312,
+          "aweme_name": "TCL洗衣机旗舰店",
+          "aweme_show_id": "TCLquanpinle99",
+          "aweme_status": "NORMAL",
+          "bind_type": [
+            "OFFICIAL"
+          ]
+        },
+        {
+          "aweme_avatar": "https://p3.douyinpic.com/img/aweme-avatar/tos-cn-i-c9aec8xkvj_89db5e646afa43e6a145e37016c04847~c5_168x168.webp?from=3782654143",
+          "aweme_has_live_permission": true,
+          "aweme_has_uni_prom": false,
+          "aweme_has_video_permission": true,
+          "aweme_id": 59013748820,
+          "aweme_name": "TCL官方旗舰店",
+          "aweme_show_id": "TCL_zhihuijiadia",
+          "aweme_status": "NORMAL",
+          "bind_type": [
+            "SELF"
+          ]
+        },
+        {
+          "aweme_avatar": "https://p3.douyinpic.com/img/aweme-avatar/tos-cn-avt-0015_59c786d360345f4d1570d40f1c33b9f8~c5_168x168.webp?from=3782654143",
+          "aweme_has_live_permission": true,
+          "aweme_has_uni_prom": false,
+          "aweme_has_video_permission": true,
+          "aweme_id": 1178311346884103,
+          "aweme_name": "小田田在用心",
+          "aweme_show_id": "qhtSimon",
+          "aweme_status": "NORMAL",
+          "bind_type": [
+            "SELF"
+          ]
+        },
+        {
+          "aweme_avatar": "https://p3.douyinpic.com/img/aweme-avatar/tos-cn-avt-0015_15c5ceef0d673d4464c7ecc872d85afc~c5_168x168.webp?from=3782654143",
+          "aweme_has_live_permission": true,
+          "aweme_has_uni_prom": false,
+          "aweme_has_video_permission": true,
+          "aweme_id": 59620235049,
+          "aweme_name": "TCL冰箱旗舰店",
+          "aweme_show_id": "1238588586",
+          "aweme_status": "NORMAL",
+          "bind_type": [
+            "AWEME_COOPERATOR"
+          ]
+        },
+        {
+          "aweme_avatar": "https://p3.douyinpic.com/img/aweme-avatar/tos-cn-avt-0015_ffc5d6e24dcccbb8d2c3a580bfb75b95~c5_168x168.webp?from=3782654143",
+          "aweme_has_live_permission": true,
+          "aweme_has_uni_prom": false,
+          "aweme_has_video_permission": true,
+          "aweme_id": 1904788363827879,
+          "aweme_name": "TCL冰洗新品推荐",
+          "aweme_show_id": "78609303765",
+          "aweme_status": "NORMAL",
+          "bind_type": [
+            "AWEME_COOPERATOR"
+          ]
+        }
+      ],
+      "page_info": {
+        "page": 1,
+        "page_size": 10,
+        "total_number": 5,
+        "total_page": 1
+      }
+    }
+  },
+  "shenghuodianqi": {
+    "code": 40002,
+    "message": "No permission to operate account 1734404969104392",
+    "request_id": "202401161058403390CA41857DAD7B834E"
+  },
+  "ffalcon3": {
+    "code": 0,
+    "message": "OK",
+    "request_id": "20240116105841D80E375C4678B291CC70",
+    "data": {
+      "aweme_id_list": [
+        {
+          "aweme_avatar": "https://p3.douyinpic.com/img/aweme-avatar/tos-cn-i-c9aec8xkvj_33e0b94c98d744e2b8f0b15706b09f16~c5_168x168.webp?from=3782654143",
+          "aweme_has_live_permission": true,
+          "aweme_has_uni_prom": false,
+          "aweme_has_video_permission": true,
+          "aweme_id": 3637645348186535,
+          "aweme_name": "FFALCON官方旗舰店",
+          "aweme_show_id": "27908031619",
+          "aweme_status": "NORMAL",
+          "bind_type": [
+            "OFFICIAL"
+          ]
+        },
+        {
+          "aweme_avatar": "https://p3.douyinpic.com/img/aweme-avatar/tos-cn-i-c9aec8xkvj_353c920e8c304718bd4887a166ca4c50~c5_168x168.webp?from=3782654143",
+          "aweme_has_live_permission": true,
+          "aweme_has_uni_prom": false,
+          "aweme_has_video_permission": true,
+          "aweme_id": 1684925512700927,
+          "aweme_name": "FFALCON雷鸟电视官方旗舰店号",
+          "aweme_show_id": "46934555021",
+          "aweme_status": "NORMAL",
+          "bind_type": [
+            "SELF"
+          ]
+        },
+        {
+          "aweme_avatar": "https://p3.douyinpic.com/img/aweme-avatar/tos-cn-i-c9aec8xkvj_1ddae1da32e945f7b4badfe0459bc8b9~c5_168x168.webp?from=3782654143",
+          "aweme_has_live_permission": true,
+          "aweme_has_uni_prom": false,
+          "aweme_has_video_permission": true,
+          "aweme_id": 3028477739801960,
+          "aweme_name": "FFALCON官方旗舰店直播间",
+          "aweme_show_id": "54813209499",
+          "aweme_status": "NORMAL",
+          "bind_type": [
+            "SELF"
+          ]
+        },
+        {
+          "aweme_avatar": "https://p3.douyinpic.com/img/aweme-avatar/tos-cn-i-0813_o8fS2ApqkDAKIDIlANebACgZJSgAkhE29AnHAi~c5_168x168.webp?from=3782654143",
+          "aweme_has_live_permission": true,
+          "aweme_has_uni_prom": true,
+          "aweme_has_video_permission": true,
+          "aweme_id": 52302947396,
+          "aweme_name": "雷鸟电视官方直播间",
+          "aweme_show_id": "615163780",
+          "aweme_status": "NORMAL",
+          "bind_type": [
+            "AWEME_COOPERATOR"
+          ]
+        }
+      ],
+      "page_info": {
+        "page": 1,
+        "page_size": 10,
+        "total_number": 4,
+        "total_page": 1
+      }
+    }
+  }
+}

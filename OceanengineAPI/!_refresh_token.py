@@ -1,8 +1,8 @@
 """
 latest output of access_token.py:
-{'code': 0, 'message': 'OK', 'request_id': '202401120917417EE45D1DFD69DBAA2457',
-'data': {'access_token': '15c213fe148dabb5c571484409a50e3597832be0', 'expires_in': 86399,
-'refresh_token': 'ae2c8f78f880703a826b3774b5f54906c30468ac',
+{'code': 0, 'message': 'OK', 'request_id': '2024011606530236FAC684ABE719B14BAE',
+'data': {'access_token': '4ab9802b564dbef527e02b15e8b77a66f9c6d48d', 'expires_in': 86399,
+'refresh_token': '0b6775eae91c13991bca5f864e7fb6dde635d612',
 'refresh_token_expires_in': 2591999}}
 
 12 Jan 2024
@@ -18,7 +18,7 @@ def refresh_access_token():
         "appid": 1787637136689193,
         "secret": "2b7dd8c1b33bcd9fef991b870b40a556e633df61",
         "grant_type": "refresh_token",
-        "refresh_token": "ae2c8f78f880703a826b3774b5f54906c30468ac",
+        "refresh_token": "0b6775eae91c13991bca5f864e7fb6dde635d612",
     }
     rsp = requests.post(refresh_token_url, json=data)
     rsp_data = rsp.json()
