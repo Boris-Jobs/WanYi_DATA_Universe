@@ -2,8 +2,14 @@ import json
 from six import string_types
 from six.moves.urllib.parse import urlencode, urlunparse
 import requests
+import datetime
 
-ACCESS_TOKEN = "4ab9802b564dbef527e02b15e8b77a66f9c6d48d"
+import os #规定当前工作路径，使生成的json文件在当前的路径
+current_dir = os.getcwd()
+os.chdir(r"C:\Users\EDY\GitHub\WanYi_DATA_Universe\OceanengineAPI")
+
+from _refresh_token import load_tokens_from_file #每次自动生成新的token
+ACCESS_TOKEN, refresh_token = load_tokens_from_file()
 PATH = "/qianchuan/report/advertiser/get/"
 
 def build_url(path, query=""):
@@ -35,17 +41,21 @@ def generate_args(advertiser_id, start_date, end_date):
 
 if __name__ == '__main__':
     advertisers_info = {
-        "xiaoxiong": 1782904022538252,
-        "ffalcon": 1757067277453327,
-        "kongtiao": 1726906985781248,
-        "ffalcon3": 1757067277453327,
-        "bingxiang": 1760485701945348,
-        "xiyiji": 1733424467898380,
-        "tianranboshi": 1753269359988803
+        "小熊": 1782904022538252,
+        "雷鸟1+2": 1757067277453327,
+        "TCL空调": 1726906985781248,
+        "雷鸟3": 1757067277453327,
+        "TCL冰箱": 1760485701945348,
+        "TCL洗衣机": 1733424467898380,
+        "天然博士": 1753269359988803
     }
 
-    start_date = "2024-01-15"
-    end_date = "2024-01-16"
+    today = datetime.date.today()
+    yesterday = today - datetime.timedelta(days=1)
+    ndaysago = today - datetime.timedelta(days=5)
+
+    start_date = ndaysago.strftime("%Y-%m-%d")
+    end_date = yesterday.strftime("%Y-%m-%d")
 
     all_ad_data = {}  # 用于存储所有广告主的数据
 
@@ -59,4 +69,4 @@ if __name__ == '__main__':
     with open('GET_ad_data.json', 'w', encoding='utf-8') as json_file:
         json.dump(all_ad_data, json_file, ensure_ascii=False, indent=2)
 
-    print('All data retrieved and saved in "all_ad_data.json".')
+    print('All data retrieved and saved in "GET_ad_data.json".')

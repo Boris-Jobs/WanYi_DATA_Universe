@@ -1,4 +1,8 @@
 import json
+import os #规定当前工作路径，使生成的json文件在当前的路径
+current_dir = os.getcwd()
+os.chdir(r"C:\Users\EDY\GitHub\WanYi_DATA_Universe\OceanengineAPI")
+
 def get_auth_account():
     import requests
     open_api_url_prefix = "https://ad.oceanengine.com/open_api/"

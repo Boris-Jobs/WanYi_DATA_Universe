@@ -1,0 +1,527 @@
+{
+  "小熊": {
+    "code": 0,
+    "message": "OK",
+    "request_id": "202401161456400DD3B22AA79E2198258E",
+    "data": {
+      "list": [
+        {
+          "advertiser_id": 1782904022538252,
+          "all_order_pay_gmv_7days": 4067.4,
+          "all_order_pay_roi_7days": 2.83,
+          "click_cnt": 1429,
+          "cpm_platform": 121.02,
+          "ctr": 11.22,
+          "prepay_and_pay_order_roi": 2.83,
+          "show_cnt": 12735,
+          "stat_cost": 1541.18,
+          "stat_datetime": "2024-01-12 00:00:00"
+        },
+        {
+          "advertiser_id": 1782904022538252,
+          "all_order_pay_gmv_7days": 3310.8,
+          "all_order_pay_roi_7days": 1.85,
+          "click_cnt": 1616,
+          "cpm_platform": 125.56,
+          "ctr": 10.77,
+          "prepay_and_pay_order_roi": 1.72,
+          "show_cnt": 15003,
+          "stat_cost": 1883.72,
+          "stat_datetime": "2024-01-11 00:00:00"
+        },
+        {
+          "advertiser_id": 1782904022538252,
+          "all_order_pay_gmv_7days": 5852.6,
+          "all_order_pay_roi_7days": 3.06,
+          "click_cnt": 1562,
+          "cpm_platform": 135.14,
+          "ctr": 10.13,
+          "prepay_and_pay_order_roi": 3.06,
+          "show_cnt": 15421,
+          "stat_cost": 2084.01,
+          "stat_datetime": "2024-01-13 00:00:00"
+        },
+        {
+          "advertiser_id": 1782904022538252,
+          "all_order_pay_gmv_7days": 7352.75,
+          "all_order_pay_roi_7days": 3.08,
+          "click_cnt": 1939,
+          "cpm_platform": 135.15,
+          "ctr": 10.47,
+          "prepay_and_pay_order_roi": 2.94,
+          "show_cnt": 18527,
+          "stat_cost": 2503.95,
+          "stat_datetime": "2024-01-14 00:00:00"
+        },
+        {
+          "advertiser_id": 1782904022538252,
+          "all_order_pay_gmv_7days": 7466.61,
+          "all_order_pay_roi_7days": 3.17,
+          "click_cnt": 2132,
+          "cpm_platform": 121.34,
+          "ctr": 10.33,
+          "prepay_and_pay_order_roi": 2.88,
+          "show_cnt": 20645,
+          "stat_cost": 2505,
+          "stat_datetime": "2024-01-15 00:00:00"
+        }
+      ],
+      "page_info": {
+        "page": 1,
+        "page_size": 20,
+        "total_number": 5,
+        "total_page": 1
+      }
+    }
+  },
+  "雷鸟1+2": {
+    "code": 0,
+    "message": "OK",
+    "request_id": "202401161456408FCC9DDD8A9944EBC76A",
+    "data": {
+      "list": [
+        {
+          "advertiser_id": 1757067277453327,
+          "all_order_pay_gmv_7days": 47016,
+          "all_order_pay_roi_7days": 23.32,
+          "click_cnt": 948,
+          "cpm_platform": 154.77,
+          "ctr": 7.28,
+          "prepay_and_pay_order_roi": 12.28,
+          "show_cnt": 13026,
+          "stat_cost": 2016.03,
+          "stat_datetime": "2024-01-15 00:00:00"
+        },
+        {
+          "advertiser_id": 1757067277453327,
+          "all_order_pay_gmv_7days": 123121,
+          "all_order_pay_roi_7days": 38.48,
+          "click_cnt": 1429,
+          "cpm_platform": 197.73,
+          "ctr": 8.83,
+          "prepay_and_pay_order_roi": 25.56,
+          "show_cnt": 16182,
+          "stat_cost": 3199.62,
+          "stat_datetime": "2024-01-13 00:00:00"
+        },
+        {
+          "advertiser_id": 1757067277453327,
+          "all_order_pay_gmv_7days": 141483,
+          "all_order_pay_roi_7days": 34.91,
+          "click_cnt": 1703,
+          "cpm_platform": 190.34,
+          "ctr": 8,
+          "prepay_and_pay_order_roi": 18.26,
+          "show_cnt": 21296,
+          "stat_cost": 4053.57,
+          "stat_datetime": "2024-01-12 00:00:00"
+        },
+        {
+          "advertiser_id": 1757067277453327,
+          "all_order_pay_gmv_7days": 118410,
+          "all_order_pay_roi_7days": 26.62,
+          "click_cnt": 2263,
+          "cpm_platform": 162.43,
+          "ctr": 8.26,
+          "prepay_and_pay_order_roi": 11.8,
+          "show_cnt": 27386,
+          "stat_cost": 4448.43,
+          "stat_datetime": "2024-01-14 00:00:00"
+        },
+        {
+          "advertiser_id": 1757067277453327,
+          "all_order_pay_gmv_7days": 242292,
+          "all_order_pay_roi_7days": 43.94,
+          "click_cnt": 2135,
+          "cpm_platform": 197.94,
+          "ctr": 7.66,
+          "prepay_and_pay_order_roi": 20.8,
+          "show_cnt": 27862,
+          "stat_cost": 5514.96,
+          "stat_datetime": "2024-01-11 00:00:00"
+        }
+      ],
+      "page_info": {
+        "page": 1,
+        "page_size": 20,
+        "total_number": 5,
+        "total_page": 1
+      }
+    }
+  },
+  "TCL空调": {
+    "code": 0,
+    "message": "OK",
+    "request_id": "2024011614564104148EBFF9785BF0C19D",
+    "data": {
+      "list": [
+        {
+          "advertiser_id": 1726906985781248,
+          "all_order_pay_gmv_7days": 15495,
+          "all_order_pay_roi_7days": 7.39,
+          "click_cnt": 1087,
+          "cpm_platform": 136.52,
+          "ctr": 7.08,
+          "prepay_and_pay_order_roi": 4.44,
+          "show_cnt": 15348,
+          "stat_cost": 2095.37,
+          "stat_datetime": "2024-01-11 00:00:00"
+        },
+        {
+          "advertiser_id": 1726906985781248,
+          "all_order_pay_gmv_7days": 30320,
+          "all_order_pay_roi_7days": 13.61,
+          "click_cnt": 1397,
+          "cpm_platform": 124.11,
+          "ctr": 7.78,
+          "prepay_and_pay_order_roi": 10.15,
+          "show_cnt": 17956,
+          "stat_cost": 2228.47,
+          "stat_datetime": "2024-01-13 00:00:00"
+        },
+        {
+          "advertiser_id": 1726906985781248,
+          "all_order_pay_gmv_7days": 44423.74,
+          "all_order_pay_roi_7days": 17.95,
+          "click_cnt": 1415,
+          "cpm_platform": 107.25,
+          "ctr": 6.13,
+          "prepay_and_pay_order_roi": 10.3,
+          "show_cnt": 23080,
+          "stat_cost": 2475.37,
+          "stat_datetime": "2024-01-12 00:00:00"
+        },
+        {
+          "advertiser_id": 1726906985781248,
+          "all_order_pay_gmv_7days": 46503,
+          "all_order_pay_roi_7days": 17.23,
+          "click_cnt": 1556,
+          "cpm_platform": 123.61,
+          "ctr": 7.13,
+          "prepay_and_pay_order_roi": 14.25,
+          "show_cnt": 21829,
+          "stat_cost": 2698.3,
+          "stat_datetime": "2024-01-14 00:00:00"
+        },
+        {
+          "advertiser_id": 1726906985781248,
+          "all_order_pay_gmv_7days": 27230,
+          "all_order_pay_roi_7days": 9.77,
+          "click_cnt": 1143,
+          "cpm_platform": 151.1,
+          "ctr": 6.2,
+          "prepay_and_pay_order_roi": 6.47,
+          "show_cnt": 18444,
+          "stat_cost": 2786.91,
+          "stat_datetime": "2024-01-15 00:00:00"
+        }
+      ],
+      "page_info": {
+        "page": 1,
+        "page_size": 20,
+        "total_number": 5,
+        "total_page": 1
+      }
+    }
+  },
+  "雷鸟3": {
+    "code": 0,
+    "message": "OK",
+    "request_id": "202401161456419713EC831629F9AB8E71",
+    "data": {
+      "list": [
+        {
+          "advertiser_id": 1757067277453327,
+          "all_order_pay_gmv_7days": 47016,
+          "all_order_pay_roi_7days": 23.32,
+          "click_cnt": 948,
+          "cpm_platform": 154.77,
+          "ctr": 7.28,
+          "prepay_and_pay_order_roi": 12.28,
+          "show_cnt": 13026,
+          "stat_cost": 2016.03,
+          "stat_datetime": "2024-01-15 00:00:00"
+        },
+        {
+          "advertiser_id": 1757067277453327,
+          "all_order_pay_gmv_7days": 123121,
+          "all_order_pay_roi_7days": 38.48,
+          "click_cnt": 1429,
+          "cpm_platform": 197.73,
+          "ctr": 8.83,
+          "prepay_and_pay_order_roi": 25.56,
+          "show_cnt": 16182,
+          "stat_cost": 3199.62,
+          "stat_datetime": "2024-01-13 00:00:00"
+        },
+        {
+          "advertiser_id": 1757067277453327,
+          "all_order_pay_gmv_7days": 141483,
+          "all_order_pay_roi_7days": 34.91,
+          "click_cnt": 1703,
+          "cpm_platform": 190.34,
+          "ctr": 8,
+          "prepay_and_pay_order_roi": 18.26,
+          "show_cnt": 21296,
+          "stat_cost": 4053.57,
+          "stat_datetime": "2024-01-12 00:00:00"
+        },
+        {
+          "advertiser_id": 1757067277453327,
+          "all_order_pay_gmv_7days": 118410,
+          "all_order_pay_roi_7days": 26.62,
+          "click_cnt": 2263,
+          "cpm_platform": 162.43,
+          "ctr": 8.26,
+          "prepay_and_pay_order_roi": 11.8,
+          "show_cnt": 27386,
+          "stat_cost": 4448.43,
+          "stat_datetime": "2024-01-14 00:00:00"
+        },
+        {
+          "advertiser_id": 1757067277453327,
+          "all_order_pay_gmv_7days": 242292,
+          "all_order_pay_roi_7days": 43.94,
+          "click_cnt": 2135,
+          "cpm_platform": 197.94,
+          "ctr": 7.66,
+          "prepay_and_pay_order_roi": 20.8,
+          "show_cnt": 27862,
+          "stat_cost": 5514.96,
+          "stat_datetime": "2024-01-11 00:00:00"
+        }
+      ],
+      "page_info": {
+        "page": 1,
+        "page_size": 20,
+        "total_number": 5,
+        "total_page": 1
+      }
+    }
+  },
+  "TCL冰箱": {
+    "code": 0,
+    "message": "OK",
+    "request_id": "2024011614564170C60D0C9DF78F990B36",
+    "data": {
+      "list": [
+        {
+          "advertiser_id": 1760485701945348,
+          "all_order_pay_gmv_7days": 41016,
+          "all_order_pay_roi_7days": 25.41,
+          "click_cnt": 851,
+          "cpm_platform": 151.78,
+          "ctr": 8,
+          "prepay_and_pay_order_roi": 6.65,
+          "show_cnt": 10636,
+          "stat_cost": 1614.36,
+          "stat_datetime": "2024-01-13 00:00:00"
+        },
+        {
+          "advertiser_id": 1760485701945348,
+          "all_order_pay_gmv_7days": 68004.24,
+          "all_order_pay_roi_7days": 37.08,
+          "click_cnt": 897,
+          "cpm_platform": 139.3,
+          "ctr": 6.81,
+          "prepay_and_pay_order_roi": 19.21,
+          "show_cnt": 13165,
+          "stat_cost": 1833.87,
+          "stat_datetime": "2024-01-11 00:00:00"
+        },
+        {
+          "advertiser_id": 1760485701945348,
+          "all_order_pay_gmv_7days": 67816.73,
+          "all_order_pay_roi_7days": 36.54,
+          "click_cnt": 885,
+          "cpm_platform": 154.14,
+          "ctr": 7.34,
+          "prepay_and_pay_order_roi": 18.96,
+          "show_cnt": 12051,
+          "stat_cost": 1857.6,
+          "stat_datetime": "2024-01-12 00:00:00"
+        },
+        {
+          "advertiser_id": 1760485701945348,
+          "all_order_pay_gmv_7days": 37862,
+          "all_order_pay_roi_7days": 18.51,
+          "click_cnt": 1585,
+          "cpm_platform": 98,
+          "ctr": 7.59,
+          "prepay_and_pay_order_roi": 15.12,
+          "show_cnt": 20872,
+          "stat_cost": 2045.43,
+          "stat_datetime": "2024-01-15 00:00:00"
+        },
+        {
+          "advertiser_id": 1760485701945348,
+          "all_order_pay_gmv_7days": 96113,
+          "all_order_pay_roi_7days": 43.2,
+          "click_cnt": 1201,
+          "cpm_platform": 142.39,
+          "ctr": 7.69,
+          "prepay_and_pay_order_roi": 25.75,
+          "show_cnt": 15625,
+          "stat_cost": 2224.79,
+          "stat_datetime": "2024-01-14 00:00:00"
+        }
+      ],
+      "page_info": {
+        "page": 1,
+        "page_size": 20,
+        "total_number": 5,
+        "total_page": 1
+      }
+    }
+  },
+  "TCL洗衣机": {
+    "code": 0,
+    "message": "OK",
+    "request_id": "202401161456424A3494D413CCA19AE560",
+    "data": {
+      "list": [
+        {
+          "advertiser_id": 1733424467898380,
+          "all_order_pay_gmv_7days": 1184,
+          "all_order_pay_roi_7days": 4.33,
+          "click_cnt": 323,
+          "cpm_platform": 89.04,
+          "ctr": 10.51,
+          "prepay_and_pay_order_roi": 0,
+          "show_cnt": 3074,
+          "stat_cost": 273.7,
+          "stat_datetime": "2024-01-11 00:00:00"
+        },
+        {
+          "advertiser_id": 1733424467898380,
+          "all_order_pay_gmv_7days": 0,
+          "all_order_pay_roi_7days": 0,
+          "click_cnt": 523,
+          "cpm_platform": 90.7,
+          "ctr": 9.49,
+          "prepay_and_pay_order_roi": 0,
+          "show_cnt": 5511,
+          "stat_cost": 499.86,
+          "stat_datetime": "2024-01-13 00:00:00"
+        },
+        {
+          "advertiser_id": 1733424467898380,
+          "all_order_pay_gmv_7days": 10453,
+          "all_order_pay_roi_7days": 12.53,
+          "click_cnt": 739,
+          "cpm_platform": 102.45,
+          "ctr": 9.07,
+          "prepay_and_pay_order_roi": 7.7,
+          "show_cnt": 8144,
+          "stat_cost": 834.38,
+          "stat_datetime": "2024-01-12 00:00:00"
+        },
+        {
+          "advertiser_id": 1733424467898380,
+          "all_order_pay_gmv_7days": 11074,
+          "all_order_pay_roi_7days": 13.1,
+          "click_cnt": 908,
+          "cpm_platform": 81.92,
+          "ctr": 8.8,
+          "prepay_and_pay_order_roi": 8.16,
+          "show_cnt": 10321,
+          "stat_cost": 845.46,
+          "stat_datetime": "2024-01-15 00:00:00"
+        },
+        {
+          "advertiser_id": 1733424467898380,
+          "all_order_pay_gmv_7days": 14521,
+          "all_order_pay_roi_7days": 14.34,
+          "click_cnt": 972,
+          "cpm_platform": 103.25,
+          "ctr": 9.91,
+          "prepay_and_pay_order_roi": 10.41,
+          "show_cnt": 9805,
+          "stat_cost": 1012.37,
+          "stat_datetime": "2024-01-14 00:00:00"
+        }
+      ],
+      "page_info": {
+        "page": 1,
+        "page_size": 20,
+        "total_number": 5,
+        "total_page": 1
+      }
+    }
+  },
+  "天然博士": {
+    "code": 0,
+    "message": "OK",
+    "request_id": "20240116145642A0D24376F7D75AF8E763",
+    "data": {
+      "list": [
+        {
+          "advertiser_id": 1753269359988803,
+          "all_order_pay_gmv_7days": 8408,
+          "all_order_pay_roi_7days": 0.88,
+          "click_cnt": 3596,
+          "cpm_platform": 146,
+          "ctr": 5.46,
+          "prepay_and_pay_order_roi": 0.84,
+          "show_cnt": 65835,
+          "stat_cost": 9612.2,
+          "stat_datetime": "2024-01-11 00:00:00"
+        },
+        {
+          "advertiser_id": 1753269359988803,
+          "all_order_pay_gmv_7days": 14103.75,
+          "all_order_pay_roi_7days": 1.46,
+          "click_cnt": 3624,
+          "cpm_platform": 109.14,
+          "ctr": 4.04,
+          "prepay_and_pay_order_roi": 1.24,
+          "show_cnt": 89621,
+          "stat_cost": 9781.25,
+          "stat_datetime": "2024-01-13 00:00:00"
+        },
+        {
+          "advertiser_id": 1753269359988803,
+          "all_order_pay_gmv_7days": 19850.26,
+          "all_order_pay_roi_7days": 2,
+          "click_cnt": 2572,
+          "cpm_platform": 218.45,
+          "ctr": 5.62,
+          "prepay_and_pay_order_roi": 1.79,
+          "show_cnt": 45756,
+          "stat_cost": 9995.24,
+          "stat_datetime": "2024-01-14 00:00:00"
+        },
+        {
+          "advertiser_id": 1753269359988803,
+          "all_order_pay_gmv_7days": 17561.4,
+          "all_order_pay_roi_7days": 1.75,
+          "click_cnt": 3002,
+          "cpm_platform": 186.94,
+          "ctr": 5.55,
+          "prepay_and_pay_order_roi": 1.71,
+          "show_cnt": 54082,
+          "stat_cost": 10110.02,
+          "stat_datetime": "2024-01-12 00:00:00"
+        },
+        {
+          "advertiser_id": 1753269359988803,
+          "all_order_pay_gmv_7days": 16286,
+          "all_order_pay_roi_7days": 1.31,
+          "click_cnt": 4249,
+          "cpm_platform": 176.6,
+          "ctr": 5.93,
+          "prepay_and_pay_order_roi": 1.23,
+          "show_cnt": 71600,
+          "stat_cost": 12644.34,
+          "stat_datetime": "2024-01-15 00:00:00"
+        }
+      ],
+      "page_info": {
+        "page": 1,
+        "page_size": 20,
+        "total_number": 5,
+        "total_page": 1
+      }
+    }
+  }
+}

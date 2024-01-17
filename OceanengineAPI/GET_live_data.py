@@ -2,11 +2,23 @@
 import json
 import requests
 
+import datetime
 from six import string_types
 from six.moves.urllib.parse import urlencode, urlunparse  # noqa
 
-ACCESS_TOKEN = "4ab9802b564dbef527e02b15e8b77a66f9c6d48d"
+import os #规定当前工作路径，使生成的json文件在当前的路径
+current_dir = os.getcwd()
+os.chdir(r"C:\Users\EDY\GitHub\WanYi_DATA_Universe\OceanengineAPI")
+
+from _refresh_token import load_tokens_from_file #每次自动生成新的token
+ACCESS_TOKEN, refresh_token = load_tokens_from_file()
+
 PATH = "/open_api/v1.0/qianchuan/report/live/get/"
+today = datetime.date.today()
+yesterday = today - datetime.timedelta(days=1)
+ndaysago = today - datetime.timedelta(days=5)
+start_time = ndaysago.strftime("%Y-%m-%d 00:00:00")
+end_time = yesterday.strftime("%Y-%m-%d 23:59:59")
 
 
 def build_url(path, query=""):
@@ -38,19 +50,17 @@ def generate_args(advertiser_id, aweme_id, start_time, end_time, fields_list):
 
 if __name__ == '__main__':
     advertisers_info = {
-        "xiaoxiong": {"advertiser_id": 1782904022538252, "aweme_id": 3184613825708974},
-        "ffalcon": {"advertiser_id": 1757067277453327, "aweme_id": 3637645348186535},
-        "ffalcon2": {"advertiser_id": 1757067277453327, "aweme_id": 52302947396},
-        "kongtiao": {"advertiser_id": 1726906985781248, "aweme_id": 421835258726919},
-        "ffalcon3": {"advertiser_id": 1757067277453327, "aweme_id": 1684925512700927},
-        "bingxiang": {"advertiser_id": 1760485701945348, "aweme_id": 59620235049},
-        "xiyiji": {"advertiser_id": 1733424467898380, "aweme_id": 1601309836879312},
-        "tianranboshi": {"advertiser_id": 1753269359988803, "aweme_id": 1877555495835464},
+        "小熊": {"advertiser_id": 1782904022538252, "aweme_id": 3184613825708974},
+        "雷鸟1+2": {"advertiser_id": 1757067277453327, "aweme_id": 3637645348186535},
+        "雷鸟2": {"advertiser_id": 1757067277453327, "aweme_id": 52302947396},
+        "TCL空调": {"advertiser_id": 1726906985781248, "aweme_id": 421835258726919},
+        "雷鸟3": {"advertiser_id": 1757067277453327, "aweme_id": 1684925512700927},
+        "TCL冰箱": {"advertiser_id": 1760485701945348, "aweme_id": 59620235049},
+        "TCL洗衣机": {"advertiser_id": 1733424467898380, "aweme_id": 1601309836879312},
+        "天然博士": {"advertiser_id": 1753269359988803, "aweme_id": 1877555495835464},
     }
 
-    start_time = "2024-01-15 00:00:00"
-    end_time = "2024-01-15 23:00:00"
-    fields_list = ["stat_cost", "cpm_platform", "click_cnt"]
+    fields_list = ["stat_cost", "cpm_platform", "click_cnt","live_pay_order_gmv_alias","total_live_watch_cnt","total_live_watch_cnt"]
 
     combined_data = {}
 
@@ -61,49 +71,4 @@ if __name__ == '__main__':
     with open("GET_live_data.json", "w", encoding="utf-8") as f:
         json.dump(combined_data, f, ensure_ascii=False, indent=2)
 
-
-"""
-if __name__ == '__main__':
-    # 以下为部门各店铺的千川广告id与抖音id（区别于“抖音显示id”）
-    advertiser_id_xiaoxiong = 1782904022538252
-    aweme_id_xiaoxiong = 3184613825708974
-
-    advertiser_id_ffalcon = 1757067277453327
-    aweme_id_ffalcon = 3637645348186535
-    aweme_id_ffalcon2 = 52302947396
-
-    advertiser_id_kongtiao = 1726906985781248
-    aweme_id_kongtiao = 421835258726919
-
-    advertiser_id_ffalcon3 = 1757067277453327
-    aweme_idffalcon3 = 1684925512700927
-
-    advertiser_id_bingxiang = 1760485701945348
-    aweme_id_bingxiang = 59620235049
-
-    advertiser_id_xiyiji = 1733424467898380
-    aweme_id_xiyiji = 1601309836879312
-
-    advertiser_id_tianranboshi = 1753269359988803
-    aweme_id_tianranboshi = 1877555495835464
-
-    start_time = "2024-01-15 00:00:00"
-    end_time = "2024-01-15 23:00:00"
-    fields_list = ["stat_cost","cpm_platform","click_cnt"]
-    fields = json.dumps(fields_list)
-
-    # Args in JSON format
-    my_args_xiaoxiong = get("{\"advertiser_id\": \"%s\", \"aweme_id\": \"%s\", \"start_time\": \"%s\", \"end_time\": \"%s\", \"fields\": %s}"
-               % (advertiser_id_xiaoxiong, aweme_id_xiaoxiong, start_time, end_time, fields))
-    my_args_ffalcon = get("{\"advertiser_id\": \"%s\", \"aweme_id\": \"%s\", \"start_time\": \"%s\", \"end_time\": \"%s\", \"fields\": %s}"
-               % (advertiser_id_ffalcon, aweme_id_ffalcon, start_time, end_time, fields))
-    my_args_ffalcon2 = get("{\"advertiser_id\": \"%s\", \"aweme_id\": \"%s\", \"start_time\": \"%s\", \"end_time\": \"%s\", \"fields\": %s}"
-               % (advertiser_id_ffalcon, aweme_id_ffalcon2, start_time, end_time, fields))
-    combined_data = {"xiaoxiong":my_args_xiaoxiong,
-                     "ffalcon":my_args_ffalcon,
-                     "ffalcon2":my_args_ffalcon2,
-                     "kongtiao":1}
-    with open("GET_live_data.json", "w", encoding="utf-8") as f:
-        json.dump(combined_data, f, ensure_ascii=False, indent=2)
-"""
-
+    print('All data retrieved and saved in "GET_live_data.json".')
