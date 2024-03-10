@@ -23,6 +23,8 @@ aweme_id_tianranboshi = 1877555495835464
 advertiser_id_shenghuodianqi = 1734404969104392 # No permission to operate account 1734404969104392
 
 
+auth_code=e935ee8c504c0757793d55a36a45b0ac1297fb17 (20240310)
+
 
 
 

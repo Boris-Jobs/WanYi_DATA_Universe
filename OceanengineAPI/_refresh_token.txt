@@ -1,2 +1,0 @@
-Access Token: cd15d9d77332cdba2033b5a7e8c8a35da2ae2e49
-Refresh Token: 8b78492e63bd472e08538311c1853da0c8f7741e
