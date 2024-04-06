@@ -1,0 +1,118 @@
+﻿
+
+Name          : api
+FullName      : C:\Users\EDY\GitHub\ad_open_sdk_java\src\main\java\com\bytedance\ads\api
+LastWriteTime : 2024/1/11 11:26:25
+Length        : 
+ParentFolder  : C:\Users\EDY\GitHub\ad_open_sdk_java\src\main\java\com\bytedance\ads
+
+Name          : auth
+FullName      : C:\Users\EDY\GitHub\ad_open_sdk_java\src\main\java\com\bytedance\ads\auth
+LastWriteTime : 2024/1/11 11:26:25
+Length        : 
+ParentFolder  : C:\Users\EDY\GitHub\ad_open_sdk_java\src\main\java\com\bytedance\ads
+
+Name          : examples
+FullName      : C:\Users\EDY\GitHub\ad_open_sdk_java\src\main\java\com\bytedance\ads\examples
+LastWriteTime : 2024/1/12 15:16:58
+Length        : 
+ParentFolder  : C:\Users\EDY\GitHub\ad_open_sdk_java\src\main\java\com\bytedance\ads
+
+Name          : model
+FullName      : C:\Users\EDY\GitHub\ad_open_sdk_java\src\main\java\com\bytedance\ads\model
+LastWriteTime : 2024/1/11 11:26:27
+Length        : 
+ParentFolder  : C:\Users\EDY\GitHub\ad_open_sdk_java\src\main\java\com\bytedance\ads
+
+Name          : aa_fileinfo.txt
+FullName      : C:\Users\EDY\GitHub\ad_open_sdk_java\src\main\java\com\bytedance\ads\aa_fileinfo.txt
+LastWriteTime : 2024/1/12 16:12:31
+Length        : 0
+ParentFolder  : 
+
+Name          : ApiCallback.java
+FullName      : C:\Users\EDY\GitHub\ad_open_sdk_java\src\main\java\com\bytedance\ads\ApiCallback.java
+LastWriteTime : 2024/1/11 11:26:25
+Length        : 1869
+ParentFolder  : 
+
+Name          : ApiClient.java
+FullName      : C:\Users\EDY\GitHub\ad_open_sdk_java\src\main\java\com\bytedance\ads\ApiClient.java
+LastWriteTime : 2024/1/11 11:26:25
+Length        : 57813
+ParentFolder  : 
+
+Name          : ApiException.java
+FullName      : C:\Users\EDY\GitHub\ad_open_sdk_java\src\main\java\com\bytedance\ads\ApiException.java
+LastWriteTime : 2024/1/11 11:26:25
+Length        : 5099
+ParentFolder  : 
+
+Name          : ApiResponse.java
+FullName      : C:\Users\EDY\GitHub\ad_open_sdk_java\src\main\java\com\bytedance\ads\ApiResponse.java
+LastWriteTime : 2024/1/11 11:26:25
+Length        : 1863
+ParentFolder  : 
+
+Name          : Configuration.java
+FullName      : C:\Users\EDY\GitHub\ad_open_sdk_java\src\main\java\com\bytedance\ads\Configuration.java
+LastWriteTime : 2024/1/11 11:26:25
+Length        : 1207
+ParentFolder  : 
+
+Name          : DouplusOrderReportV30ApiExample.java
+FullName      : C:\Users\EDY\GitHub\ad_open_sdk_java\src\main\java\com\bytedance\ads\DouplusOrderReportV30ApiExample.java
+LastWriteTime : 2024/1/12 10:14:20
+Length        : 2052
+ParentFolder  : 
+
+Name          : GzipRequestInterceptor.java
+FullName      : C:\Users\EDY\GitHub\ad_open_sdk_java\src\main\java\com\bytedance\ads\GzipRequestInterceptor.java
+LastWriteTime : 2024/1/11 11:26:25
+Length        : 2671
+ParentFolder  : 
+
+Name          : JSON.java
+FullName      : C:\Users\EDY\GitHub\ad_open_sdk_java\src\main\java\com\bytedance\ads\JSON.java
+LastWriteTime : 2024/1/11 11:26:25
+Length        : 498016
+ParentFolder  : 
+
+Name          : Pair.java
+FullName      : C:\Users\EDY\GitHub\ad_open_sdk_java\src\main\java\com\bytedance\ads\Pair.java
+LastWriteTime : 2024/1/11 11:26:25
+Length        : 1248
+ParentFolder  : 
+
+Name          : ProgressRequestBody.java
+FullName      : C:\Users\EDY\GitHub\ad_open_sdk_java\src\main\java\com\bytedance\ads\ProgressRequestBody.java
+LastWriteTime : 2024/1/11 11:26:25
+Length        : 1921
+ParentFolder  : 
+
+Name          : ProgressResponseBody.java
+FullName      : C:\Users\EDY\GitHub\ad_open_sdk_java\src\main\java\com\bytedance\ads\ProgressResponseBody.java
+LastWriteTime : 2024/1/11 11:26:25
+Length        : 1981
+ParentFolder  : 
+
+Name          : ServerConfiguration.java
+FullName      : C:\Users\EDY\GitHub\ad_open_sdk_java\src\main\java\com\bytedance\ads\ServerConfiguration.java
+LastWriteTime : 2024/1/11 11:26:25
+Length        : 1998
+ParentFolder  : 
+
+Name          : ServerVariable.java
+FullName      : C:\Users\EDY\GitHub\ad_open_sdk_java\src\main\java\com\bytedance\ads\ServerVariable.java
+LastWriteTime : 2024/1/11 11:26:25
+Length        : 794
+ParentFolder  : 
+
+Name          : StringUtil.java
+FullName      : C:\Users\EDY\GitHub\ad_open_sdk_java\src\main\java\com\bytedance\ads\StringUtil.java
+LastWriteTime : 2024/1/11 11:26:25
+Length        : 2357
+ParentFolder  : 
+
+
+

@@ -1,0 +1,154 @@
+﻿
+
+Name          : .github
+FullName      : C:\Users\EDY\GitHub\ad_open_sdk_java\.github
+LastWriteTime : 2024/1/11 11:26:25
+Length        : 
+ParentFolder  : C:\Users\EDY\GitHub\ad_open_sdk_java
+
+Name          : .openapi-generator
+FullName      : C:\Users\EDY\GitHub\ad_open_sdk_java\.openapi-generator
+LastWriteTime : 2024/1/11 11:26:25
+Length        : 
+ParentFolder  : C:\Users\EDY\GitHub\ad_open_sdk_java
+
+Name          : .vscode
+FullName      : C:\Users\EDY\GitHub\ad_open_sdk_java\.vscode
+LastWriteTime : 2024/1/11 14:53:00
+Length        : 
+ParentFolder  : C:\Users\EDY\GitHub\ad_open_sdk_java
+
+Name          : gradle
+FullName      : C:\Users\EDY\GitHub\ad_open_sdk_java\gradle
+LastWriteTime : 2024/1/11 11:26:25
+Length        : 
+ParentFolder  : C:\Users\EDY\GitHub\ad_open_sdk_java
+
+Name          : src
+FullName      : C:\Users\EDY\GitHub\ad_open_sdk_java\src
+LastWriteTime : 2024/1/11 11:26:25
+Length        : 
+ParentFolder  : C:\Users\EDY\GitHub\ad_open_sdk_java
+
+Name          : target
+FullName      : C:\Users\EDY\GitHub\ad_open_sdk_java\target
+LastWriteTime : 2024/1/12 12:06:07
+Length        : 
+ParentFolder  : C:\Users\EDY\GitHub\ad_open_sdk_java
+
+Name          : .gitignore
+FullName      : C:\Users\EDY\GitHub\ad_open_sdk_java\.gitignore
+LastWriteTime : 2024/1/11 11:26:25
+Length        : 356
+ParentFolder  : 
+
+Name          : .openapi-generator-ignore
+FullName      : C:\Users\EDY\GitHub\ad_open_sdk_java\.openapi-generator-ignore
+LastWriteTime : 2024/1/11 11:26:25
+Length        : 1063
+ParentFolder  : 
+
+Name          : .travis.yml
+FullName      : C:\Users\EDY\GitHub\ad_open_sdk_java\.travis.yml
+LastWriteTime : 2024/1/11 11:26:25
+Length        : 432
+ParentFolder  : 
+
+Name          : build.gradle
+FullName      : C:\Users\EDY\GitHub\ad_open_sdk_java\build.gradle
+LastWriteTime : 2024/1/11 11:26:25
+Length        : 2912
+ParentFolder  : 
+
+Name          : build.sbt
+FullName      : C:\Users\EDY\GitHub\ad_open_sdk_java\build.sbt
+LastWriteTime : 2024/1/11 11:26:25
+Length        : 1356
+ParentFolder  : 
+
+Name          : FileInfo.ps1
+FullName      : C:\Users\EDY\GitHub\ad_open_sdk_java\FileInfo.ps1
+LastWriteTime : 2024/1/12 16:07:12
+Length        : 126
+ParentFolder  : 
+
+Name          : FileInfo.txt
+FullName      : C:\Users\EDY\GitHub\ad_open_sdk_java\FileInfo.txt
+LastWriteTime : 2024/1/12 16:07:46
+Length        : 0
+ParentFolder  : 
+
+Name          : git_push.sh
+FullName      : C:\Users\EDY\GitHub\ad_open_sdk_java\git_push.sh
+LastWriteTime : 2024/1/11 11:26:25
+Length        : 1887
+ParentFolder  : 
+
+Name          : gradle.properties
+FullName      : C:\Users\EDY\GitHub\ad_open_sdk_java\gradle.properties
+LastWriteTime : 2024/1/11 11:26:25
+Length        : 442
+ParentFolder  : 
+
+Name          : gradlew
+FullName      : C:\Users\EDY\GitHub\ad_open_sdk_java\gradlew
+LastWriteTime : 2024/1/11 11:26:25
+Length        : 8326
+ParentFolder  : 
+
+Name          : gradlew.bat
+FullName      : C:\Users\EDY\GitHub\ad_open_sdk_java\gradlew.bat
+LastWriteTime : 2024/1/11 11:26:25
+Length        : 2785
+ParentFolder  : 
+
+Name          : LICENSE
+FullName      : C:\Users\EDY\GitHub\ad_open_sdk_java\LICENSE
+LastWriteTime : 2024/1/11 11:26:25
+Length        : 11556
+ParentFolder  : 
+
+Name          : Myapplication.java
+FullName      : C:\Users\EDY\GitHub\ad_open_sdk_java\Myapplication.java
+LastWriteTime : 2024/1/12 13:06:22
+Length        : 1517
+ParentFolder  : 
+
+Name          : output.txt
+FullName      : C:\Users\EDY\GitHub\ad_open_sdk_java\output.txt
+LastWriteTime : 2024/1/12 15:56:31
+Length        : 43001
+ParentFolder  : 
+
+Name          : pom.xml
+FullName      : C:\Users\EDY\GitHub\ad_open_sdk_java\pom.xml
+LastWriteTime : 2024/1/12 12:12:30
+Length        : 10116
+ParentFolder  : 
+
+Name          : README.md
+FullName      : C:\Users\EDY\GitHub\ad_open_sdk_java\README.md
+LastWriteTime : 2024/1/11 11:26:25
+Length        : 89684
+ParentFolder  : 
+
+Name          : reports.txt
+FullName      : C:\Users\EDY\GitHub\ad_open_sdk_java\reports.txt
+LastWriteTime : 2024/1/12 15:06:48
+Length        : 177836
+ParentFolder  : 
+
+Name          : settings.gradle
+FullName      : C:\Users\EDY\GitHub\ad_open_sdk_java\settings.gradle
+LastWriteTime : 2024/1/11 11:26:25
+Length        : 49
+ParentFolder  : 
+
+Name          : zzz_record.txt
+FullName      : C:\Users\EDY\GitHub\ad_open_sdk_java\zzz_record.txt
+LastWriteTime : 2024/1/12 9:06:55
+Length        : 22
+ParentFolder  : 
+
+
+
